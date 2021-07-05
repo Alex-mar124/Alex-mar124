@@ -1,7 +1,20 @@
 ## **[Hey I'm Alex 👋](https://web.alex-api.tk/)**
-### Full Stack Developer For AWS - EZFN/EZMC DEV - Offical EZ  Developer -  JavaScript Developer.
+### ✔️ Full Stack Developer For AWS - EZFN/EZMC DEV - Offical EZ  Developer -  JavaScript Developer.
 ### [About Me And More Info Click Here](https://web.alex-api.tk/)
-#### Projects 
+###  💻- Langages
+[![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+)]()    [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+)]()  [![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+)]() 
+
+[![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+)]()  [![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+)]()    [![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+)]()  [![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+)]()
+
+
+### 🚧- Projects 
 - [EZFN](https://ezfn.dev)
  A 100% free Fortnite Private Server and Lobby Bot service. 
 
@@ -11,10 +24,8 @@ The Best java edition Minecraft server for all EZ users!
 An all in one API for games and discord.js API tools. Work In Progress.
 
 - EZHelper 
-[![]()]()
 
-
-### Skills 
+### ✔️ - Skills 
 I have had alot of experiance in all the below apps some even verifyed expert!
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
@@ -57,8 +68,8 @@ I have had alot of experiance in all the below apps some even verifyed expert!
 
 [![microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white
 )]()  [![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white
-)]()  [![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white 
-)]()  [![aws](https://img.shields.io/badge/Amazon-AWS-{232F3E}?style=for-the-badge&logo=amazonaws&logoColor=white
+)]()  [![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+)]()  [![aws](https://img.shields.io/badge/AmazonAWS-{232F3E}?style=for-the-badge&logo=amazonaws&logoColor=white
 )]()
 
 [![gcloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
