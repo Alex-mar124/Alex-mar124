@@ -1,5 +1,7 @@
 ## **[Hey I'm Alex 👋](https://web.alex-api.tk/)**
 ### ✔️ Full Stack Developer For AWS - EZFN/EZMC DEV - Offical EZ  Developer -  JavaScript Developer.
+[![ez](https://img.shields.io/badge/EZ%20--%20API-Official%20EZ%20Staff-blue
+)]()
 ### [About Me And More Info Click Here](https://web.alex-api.tk/)
 ###  💻- Langages
 [![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
