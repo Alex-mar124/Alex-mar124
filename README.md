@@ -15,15 +15,15 @@
 
 
 ### 🚧- Projects 
-- [EZFN](https://ezfn.dev)
+- [EZFN](https://ezfn.dev):
  A 100% free Fortnite Private Server and Lobby Bot service. 
 
-- EZMC
+- EZMC:
 The Best java edition Minecraft server for all EZ users! 
-- EZ API 
+- EZ API: 
 An all in one API for games and discord.js API tools. Work In Progress.
 
-- EZHelper 
+- EZHelper: 
 
 ### ✔️ - Skills 
 I have had alot of experiance in all the below apps some even verifyed expert!
