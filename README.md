@@ -31,6 +31,12 @@ The Best java edition Minecraft server for all EZ users!
 An all in one API for games and discord.js API tools. Work In Progress.
 
 - EZHelper: 
+Discord bot for ezfn 
+
+#### GitHub stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-mar124)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### ✔️ - Skills 
 I have had alot of experiance in all the below apps some even verifyed expert!
