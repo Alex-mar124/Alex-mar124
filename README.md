@@ -6,7 +6,7 @@
 ### [About Me And More Info Click Here](https://web.alex-api.tk/)
  
 <p align="center">
-    <a href="https://discord.gg/ezfn"><img src="https://discord.c99.nl/widget/theme-3/574078275232595988.png"/></a>
+    <a href="https://discord.gg/ezfn"><img src="https://discord.c99.nl/widget/theme-2/574078275232595988.png"/></a>
  
  
 ###  💻- Langages
