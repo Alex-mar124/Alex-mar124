@@ -1,5 +1,5 @@
 ## **[Hey I'm Alex 👋](https://web.alex-api.tk/)**
-### ✔️ Full Stack Developer For AWS - EZFN/EZMC DEV - Offical EZ  Developer -  JavaScript Developer.
+### ✔️ Full Stack Developer For AWS - EZFN/EZMC DEV - Offical EZ  Developer - IT/AV Technician @tintern - JavaScript Developer.
 [![ez](https://img.shields.io/badge/EZ%20--%20API-Official%20EZ%20Staff-blue
 )]()
 
