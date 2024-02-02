@@ -1,9 +1,9 @@
 ## **[Hey I'm Alex 👋](https://web.alex-api.tk/)**
-### ✔️ Full Stack Developer For AWS - EZFN/EZMC DEV - Offical EZ  Developer - IT/AV Technician @tintern - JavaScript Developer.
+### ✔️ Full Stack Developer - IT/AV Technician - Cyber Security
 [![ez](https://img.shields.io/badge/EZ%20--%20API-Official%20EZ%20Staff-blue
 )]()
 
-### [About Me And More Info Click Here](https://web.alex-api.tk/)
+### [About Me And More Info Click Here](https://alex-mar124.github.io/)
  
 <p align="center">
     <a href="https://discord.gg/ezfn"><img src="https://discord.c99.nl/widget/theme-2/574078275232595988.png"/></a>
@@ -20,18 +20,6 @@
 )]()  [![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 )]()
 
-
-### 🚧- Projects 
-- [EZFN](https://ezfn.dev):
- A 100% free Fortnite Private Server and Lobby Bot service. 
-
-- EZMC:
-The Best java edition Minecraft server for all EZ users! 
-- EZ API: 
-An all in one API for games and discord.js API tools. Work In Progress.
-
-- EZHelper: 
-Discord bot for ezfn 
 
 #### GitHub stats
 
